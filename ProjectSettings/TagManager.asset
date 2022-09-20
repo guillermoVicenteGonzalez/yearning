@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - interactable
+  - item
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: agua
+    uniqueID: 2508599
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: suelo
+    uniqueID: 3148100819
+    locked: 0
+  - name: foreground
+    uniqueID: 300637239
+    locked: 0
+  - name: collisions
+    uniqueID: 1991626885
+    locked: 0
+  - name: decorationCollisions
+    uniqueID: 1220421541
+    locked: 0
+  - name: sombras
+    uniqueID: 1998201467
+    locked: 0
+  - name: player
+    uniqueID: 1346957685
+    locked: 0
+  - name: wind
+    uniqueID: 3474439627
+    locked: 0
+  - name: roof
+    uniqueID: 3491427429
+    locked: 0
+  - name: contextClue
+    uniqueID: 516290303
+    locked: 0

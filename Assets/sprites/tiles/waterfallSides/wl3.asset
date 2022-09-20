@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595be982f3552ac44a66344b58e4f2e6, type: 3}
+  m_Name: wl3
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -7612905629741137660, guid: add4264ae574cfd4ca39e2d6eb926228, type: 3}
+  - {fileID: 2559846414209701640, guid: add4264ae574cfd4ca39e2d6eb926228, type: 3}
+  - {fileID: -6378913131075159252, guid: add4264ae574cfd4ca39e2d6eb926228, type: 3}
+  m_MinSpeed: 6
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0

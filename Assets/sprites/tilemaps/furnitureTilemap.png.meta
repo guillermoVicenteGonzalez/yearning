@@ -1,0 +1,5026 @@
+fileFormatVersion: 2
+guid: 4bc92db988d0a71419534ee73fc18959
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8690006582930439391
+    second: furnitureTilemap_0
+  - first:
+      213: -1186330350175463106
+    second: furnitureTilemap_1
+  - first:
+      213: -1866993843935112520
+    second: furnitureTilemap_2
+  - first:
+      213: 4013612036853870224
+    second: furnitureTilemap_3
+  - first:
+      213: -718384497079103958
+    second: furnitureTilemap_4
+  - first:
+      213: 2863244875203700221
+    second: furnitureTilemap_5
+  - first:
+      213: 4635815171387166301
+    second: furnitureTilemap_6
+  - first:
+      213: -4359112884000337823
+    second: furnitureTilemap_7
+  - first:
+      213: 985736390874229488
+    second: furnitureTilemap_8
+  - first:
+      213: 4112194701873372640
+    second: furnitureTilemap_9
+  - first:
+      213: -3312276815519582689
+    second: furnitureTilemap_10
+  - first:
+      213: -1048076241416694896
+    second: furnitureTilemap_11
+  - first:
+      213: 7803902324847032802
+    second: furnitureTilemap_12
+  - first:
+      213: -6568022946801113805
+    second: furnitureTilemap_13
+  - first:
+      213: -4332158124210781828
+    second: furnitureTilemap_14
+  - first:
+      213: 4867082235308958950
+    second: furnitureTilemap_15
+  - first:
+      213: 8542096701769160801
+    second: furnitureTilemap_16
+  - first:
+      213: 7286008555758802143
+    second: furnitureTilemap_17
+  - first:
+      213: 1580997084413302395
+    second: furnitureTilemap_18
+  - first:
+      213: -7525832816630753380
+    second: furnitureTilemap_19
+  - first:
+      213: -4673658373390295566
+    second: furnitureTilemap_20
+  - first:
+      213: -3955642726456523627
+    second: furnitureTilemap_21
+  - first:
+      213: -4648010158803219036
+    second: furnitureTilemap_22
+  - first:
+      213: -7429086933127615377
+    second: furnitureTilemap_23
+  - first:
+      213: -5532361851710845598
+    second: furnitureTilemap_24
+  - first:
+      213: -3278907700699055744
+    second: furnitureTilemap_25
+  - first:
+      213: 173885737813477555
+    second: furnitureTilemap_26
+  - first:
+      213: -2691537070399590231
+    second: furnitureTilemap_27
+  - first:
+      213: -4138457388961771132
+    second: furnitureTilemap_28
+  - first:
+      213: -6517202896982656946
+    second: furnitureTilemap_29
+  - first:
+      213: 541508522578429229
+    second: furnitureTilemap_30
+  - first:
+      213: -1719019131804699740
+    second: furnitureTilemap_31
+  - first:
+      213: 8363720096736481397
+    second: furnitureTilemap_32
+  - first:
+      213: 974887448315464219
+    second: furnitureTilemap_33
+  - first:
+      213: 6975885698341433748
+    second: furnitureTilemap_34
+  - first:
+      213: -5888290688834324764
+    second: furnitureTilemap_35
+  - first:
+      213: 5060665959773650495
+    second: furnitureTilemap_36
+  - first:
+      213: 4500767053021727731
+    second: furnitureTilemap_37
+  - first:
+      213: -8927677853475321716
+    second: furnitureTilemap_38
+  - first:
+      213: 8145734442171516678
+    second: furnitureTilemap_39
+  - first:
+      213: 5618546029505808996
+    second: furnitureTilemap_40
+  - first:
+      213: -7838522169719158139
+    second: furnitureTilemap_41
+  - first:
+      213: 6550207895901700317
+    second: furnitureTilemap_42
+  - first:
+      213: 7987523044144233177
+    second: furnitureTilemap_43
+  - first:
+      213: 2013146348422264712
+    second: furnitureTilemap_44
+  - first:
+      213: -7678476677465212602
+    second: furnitureTilemap_45
+  - first:
+      213: -635664879928739611
+    second: furnitureTilemap_46
+  - first:
+      213: 2134765270418446506
+    second: furnitureTilemap_47
+  - first:
+      213: -3411292348054278385
+    second: furnitureTilemap_48
+  - first:
+      213: -3916906586913254224
+    second: furnitureTilemap_49
+  - first:
+      213: 967052105819939948
+    second: furnitureTilemap_50
+  - first:
+      213: -6227804902677078107
+    second: furnitureTilemap_51
+  - first:
+      213: 8109249463882157540
+    second: furnitureTilemap_52
+  - first:
+      213: -1504639437314057539
+    second: furnitureTilemap_53
+  - first:
+      213: 990528615785801014
+    second: furnitureTilemap_54
+  - first:
+      213: 7905243124492100984
+    second: furnitureTilemap_55
+  - first:
+      213: -1652410300203514746
+    second: furnitureTilemap_56
+  - first:
+      213: -3153110331906901355
+    second: furnitureTilemap_57
+  - first:
+      213: -7354238391059158563
+    second: furnitureTilemap_58
+  - first:
+      213: -4596338930806580491
+    second: furnitureTilemap_59
+  - first:
+      213: -4759092034978015008
+    second: furnitureTilemap_60
+  - first:
+      213: 1945787931655899961
+    second: furnitureTilemap_61
+  - first:
+      213: 6649388316684655126
+    second: furnitureTilemap_62
+  - first:
+      213: 4256188770540388736
+    second: furnitureTilemap_63
+  - first:
+      213: 4745559699032661486
+    second: furnitureTilemap_64
+  - first:
+      213: -540064380135974865
+    second: furnitureTilemap_65
+  - first:
+      213: -7849520756322734835
+    second: furnitureTilemap_66
+  - first:
+      213: -2822262396387788429
+    second: furnitureTilemap_67
+  - first:
+      213: -6260122827751621531
+    second: furnitureTilemap_68
+  - first:
+      213: 3553052780074999821
+    second: furnitureTilemap_69
+  - first:
+      213: 5489676607895277275
+    second: furnitureTilemap_70
+  - first:
+      213: -2150117868043449848
+    second: furnitureTilemap_71
+  - first:
+      213: 8697317157164620812
+    second: furnitureTilemap_72
+  - first:
+      213: 5092205004318069135
+    second: furnitureTilemap_73
+  - first:
+      213: 6401044064570860635
+    second: furnitureTilemap_74
+  - first:
+      213: 352278501494141520
+    second: furnitureTilemap_75
+  - first:
+      213: -6065861883553501555
+    second: furnitureTilemap_76
+  - first:
+      213: -5420482061930779985
+    second: furnitureTilemap_77
+  - first:
+      213: -6163925918263397274
+    second: furnitureTilemap_78
+  - first:
+      213: 52488350486517580
+    second: furnitureTilemap_79
+  - first:
+      213: -6664688147294537468
+    second: furnitureTilemap_80
+  - first:
+      213: 7615062107549811280
+    second: furnitureTilemap_81
+  - first:
+      213: 301228129812790498
+    second: furnitureTilemap_82
+  - first:
+      213: 6122142908981665957
+    second: furnitureTilemap_83
+  - first:
+      213: -4836115299963272307
+    second: furnitureTilemap_84
+  - first:
+      213: -683384866640577446
+    second: furnitureTilemap_85
+  - first:
+      213: -4489514332346665788
+    second: furnitureTilemap_86
+  - first:
+      213: -176620570386883312
+    second: furnitureTilemap_87
+  - first:
+      213: 8139466184890398760
+    second: furnitureTilemap_88
+  - first:
+      213: -8934377407983628918
+    second: furnitureTilemap_89
+  - first:
+      213: -3159264314486297158
+    second: furnitureTilemap_90
+  - first:
+      213: 3778977533845301928
+    second: furnitureTilemap_91
+  - first:
+      213: -176735263025853041
+    second: furnitureTilemap_92
+  - first:
+      213: 8611036336054079743
+    second: furnitureTilemap_93
+  - first:
+      213: 2778773570082724623
+    second: furnitureTilemap_94
+  - first:
+      213: -2812972713881618646
+    second: furnitureTilemap_95
+  - first:
+      213: -6739835348946791525
+    second: furnitureTilemap_96
+  - first:
+      213: 6093864967280342015
+    second: furnitureTilemap_97
+  - first:
+      213: 3158926956232507996
+    second: furnitureTilemap_98
+  - first:
+      213: 6466843155252593523
+    second: furnitureTilemap_99
+  - first:
+      213: -7132627882598469992
+    second: furnitureTilemap_100
+  - first:
+      213: -4877357090151669635
+    second: furnitureTilemap_101
+  - first:
+      213: 5133875406048737558
+    second: furnitureTilemap_102
+  - first:
+      213: -5448925419273356228
+    second: furnitureTilemap_103
+  - first:
+      213: -4333018601729501737
+    second: furnitureTilemap_104
+  - first:
+      213: 2342866529054729398
+    second: furnitureTilemap_105
+  - first:
+      213: -4888809654999979504
+    second: furnitureTilemap_106
+  - first:
+      213: 7429715067459244695
+    second: furnitureTilemap_107
+  - first:
+      213: 7702899036665446180
+    second: furnitureTilemap_108
+  - first:
+      213: -3095679348869743403
+    second: furnitureTilemap_109
+  - first:
+      213: -4205343588177872116
+    second: furnitureTilemap_110
+  - first:
+      213: 6974515653720258327
+    second: furnitureTilemap_111
+  - first:
+      213: -3194645744233584054
+    second: furnitureTilemap_112
+  - first:
+      213: 4300732585903865575
+    second: furnitureTilemap_113
+  - first:
+      213: 3170261728038031944
+    second: furnitureTilemap_114
+  - first:
+      213: 916268373255066436
+    second: furnitureTilemap_115
+  - first:
+      213: 7413834988890674943
+    second: furnitureTilemap_116
+  - first:
+      213: -1313728505617115597
+    second: furnitureTilemap_117
+  - first:
+      213: 4573345432625932581
+    second: furnitureTilemap_118
+  - first:
+      213: 7736120179331975215
+    second: furnitureTilemap_119
+  - first:
+      213: -2261452527860879443
+    second: furnitureTilemap_120
+  - first:
+      213: -1113659956430795154
+    second: furnitureTilemap_121
+  - first:
+      213: -8121606995795582083
+    second: furnitureTilemap_122
+  - first:
+      213: 1665829267417759835
+    second: furnitureTilemap_123
+  - first:
+      213: 8008120030936317935
+    second: furnitureTilemap_124
+  - first:
+      213: 5299979023761013199
+    second: furnitureTilemap_125
+  - first:
+      213: -819151278065755265
+    second: furnitureTilemap_126
+  - first:
+      213: 630878073084459743
+    second: furnitureTilemap_127
+  - first:
+      213: 1033890877728068037
+    second: furnitureTilemap_128
+  - first:
+      213: 6134826816627305432
+    second: furnitureTilemap_129
+  - first:
+      213: 631154805857472851
+    second: furnitureTilemap_130
+  - first:
+      213: -6316876113074169287
+    second: furnitureTilemap_131
+  - first:
+      213: -2893409801295981598
+    second: furnitureTilemap_132
+  - first:
+      213: 4873984723142791916
+    second: furnitureTilemap_133
+  - first:
+      213: 1276656813513496505
+    second: furnitureTilemap_134
+  - first:
+      213: 3758699778314032954
+    second: furnitureTilemap_135
+  - first:
+      213: 7629918983529600264
+    second: furnitureTilemap_136
+  - first:
+      213: 8187663827585739232
+    second: furnitureTilemap_137
+  - first:
+      213: 6474158272946819557
+    second: furnitureTilemap_138
+  - first:
+      213: 7566512181793452826
+    second: furnitureTilemap_139
+  - first:
+      213: -8244983771044848933
+    second: furnitureTilemap_140
+  - first:
+      213: -4322961320296337243
+    second: furnitureTilemap_141
+  - first:
+      213: 2043064320452475080
+    second: furnitureTilemap_142
+  - first:
+      213: 4791082451339423321
+    second: furnitureTilemap_143
+  - first:
+      213: -5510150515802600753
+    second: furnitureTilemap_144
+  - first:
+      213: 5035726414177272877
+    second: furnitureTilemap_145
+  - first:
+      213: 5639581504580241397
+    second: furnitureTilemap_146
+  - first:
+      213: 2275149532248669460
+    second: furnitureTilemap_147
+  - first:
+      213: 5549288770165584368
+    second: furnitureTilemap_148
+  - first:
+      213: -1331267665946264579
+    second: furnitureTilemap_149
+  - first:
+      213: 9207278147373941863
+    second: furnitureTilemap_150
+  - first:
+      213: -6475537183011624795
+    second: furnitureTilemap_151
+  - first:
+      213: -8999195898720813016
+    second: furnitureTilemap_152
+  - first:
+      213: 7510654814627940730
+    second: furnitureTilemap_153
+  - first:
+      213: 352820785373563769
+    second: furnitureTilemap_154
+  - first:
+      213: 8855013347060905809
+    second: furnitureTilemap_155
+  - first:
+      213: -8500812181900571479
+    second: furnitureTilemap_156
+  - first:
+      213: -59794076890797288
+    second: furnitureTilemap_157
+  - first:
+      213: -6148916845197656177
+    second: furnitureTilemap_158
+  - first:
+      213: -9205704313109383637
+    second: furnitureTilemap_159
+  - first:
+      213: -1541058807858870352
+    second: furnitureTilemap_160
+  - first:
+      213: -8937897786516673668
+    second: furnitureTilemap_161
+  - first:
+      213: -7428195555245842264
+    second: furnitureTilemap_162
+  - first:
+      213: -2923011247492857595
+    second: furnitureTilemap_163
+  - first:
+      213: 1310472992069241641
+    second: furnitureTilemap_164
+  - first:
+      213: 2176294840541278664
+    second: furnitureTilemap_165
+  - first:
+      213: -988840345655124906
+    second: furnitureTilemap_166
+  - first:
+      213: -4754778348726593956
+    second: furnitureTilemap_167
+  - first:
+      213: 834300853166599777
+    second: furnitureTilemap_168
+  - first:
+      213: -1825588764358270568
+    second: furnitureTilemap_169
+  - first:
+      213: 4826744892318413855
+    second: furnitureTilemap_170
+  - first:
+      213: -7737997491731225233
+    second: furnitureTilemap_171
+  - first:
+      213: -4180323615953265996
+    second: furnitureTilemap_172
+  - first:
+      213: 4994548394572219109
+    second: furnitureTilemap_173
+  - first:
+      213: -1295110376877869221
+    second: furnitureTilemap_174
+  - first:
+      213: -819291754911507538
+    second: furnitureTilemap_175
+  - first:
+      213: 2219584528872693
+    second: furnitureTilemap_176
+  - first:
+      213: -6281318802150100415
+    second: furnitureTilemap_177
+  - first:
+      213: 5574811290591789858
+    second: furnitureTilemap_178
+  - first:
+      213: -3313831052551315537
+    second: furnitureTilemap_179
+  - first:
+      213: -1324504515738259350
+    second: furnitureTilemap_180
+  - first:
+      213: 8711726773794634278
+    second: furnitureTilemap_181
+  - first:
+      213: 5552620116011392344
+    second: furnitureTilemap_182
+  - first:
+      213: -1065374800958735051
+    second: furnitureTilemap_183
+  - first:
+      213: 3093548533469074843
+    second: furnitureTilemap_184
+  - first:
+      213: 3598281174355853620
+    second: furnitureTilemap_185
+  - first:
+      213: 4940532377364974709
+    second: furnitureTilemap_186
+  - first:
+      213: -8433043224503351486
+    second: furnitureTilemap_187
+  - first:
+      213: 6338944578407363543
+    second: furnitureTilemap_188
+  - first:
+      213: 2393629065663326337
+    second: furnitureTilemap_189
+  - first:
+      213: -4169336660961910539
+    second: furnitureTilemap_190
+  - first:
+      213: 7940585345969188097
+    second: furnitureTilemap_191
+  - first:
+      213: -2264675655922081330
+    second: furnitureTilemap_192
+  - first:
+      213: 7923375604465048524
+    second: furnitureTilemap_193
+  - first:
+      213: 3269445033832011787
+    second: furnitureTilemap_194
+  - first:
+      213: 18284329518407383
+    second: furnitureTilemap_195
+  - first:
+      213: -1453479644962175541
+    second: furnitureTilemap_196
+  - first:
+      213: 8725711709534263996
+    second: furnitureTilemap_197
+  - first:
+      213: 8863235732930552531
+    second: furnitureTilemap_198
+  - first:
+      213: -6309504962395698439
+    second: furnitureTilemap_199
+  - first:
+      213: 3991358759026795993
+    second: furnitureTilemap_200
+  - first:
+      213: -3557633843747418690
+    second: furnitureTilemap_201
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: furnitureTilemap_0
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 563
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12300a0fd05e66780800000000000000
+      internalID: -8690006582930439391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 563
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39d68bf4de498fe0800000000000000
+      internalID: -1186330350175463106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2186e9dfa1716e0800000000000000
+      internalID: -1866993843935112520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e28eae1e633b730800000000000000
+      internalID: 4013612036853870224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ec3772b19c706f0800000000000000
+      internalID: -718384497079103958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5697b3b0a4cb720800000000000000
+      internalID: 2863244875203700221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e06e63659b55040800000000000000
+      internalID: 4635815171387166301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160d4557de15183c0800000000000000
+      internalID: -4359112884000337823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faeb3c560a0ead00800000000000000
+      internalID: 985736390874229488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edd7644b43711930800000000000000
+      internalID: 4112194701873372640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16713519cd6802d0800000000000000
+      internalID: -3312276815519582689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093d4dc163c7471f0800000000000000
+      internalID: -1048076241416694896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e93a5e41d70d4c60800000000000000
+      internalID: 7803902324847032802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3352e43cde1b9d4a0800000000000000
+      internalID: -6568022946801113805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710897832511e3c0800000000000000
+      internalID: -4332158124210781828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4643091895b8340800000000000000
+      internalID: 4867082235308958950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1689cf931bf9b8670800000000000000
+      internalID: 8542096701769160801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4d574bd2a1d1560800000000000000
+      internalID: 7286008555758802143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b761267c874d0f510800000000000000
+      internalID: 1580997084413302395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c971fb54deede8790800000000000000
+      internalID: -7525832816630753380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd9a84b874d32fb0800000000000000
+      internalID: -4673658373390295566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594833fe5ebba19c0800000000000000
+      internalID: -3955642726456523627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad80240363fe7fb0800000000000000
+      internalID: -4648010158803219036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cae699bc496e890800000000000000
+      internalID: -7429086933127615377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d4ad3253a1933b0800000000000000
+      internalID: -5532361851710845598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0893a8091dafe72d0800000000000000
+      internalID: -3278907700699055744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b801e14824c96200800000000000000
+      internalID: 173885737813477555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0790b7b4db5aad0800000000000000
+      internalID: -2691537070399590231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481d7d46eee3196c0800000000000000
+      internalID: -4138457388961771132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48b33cae7e3e85a0800000000000000
+      internalID: -6517202896982656946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25422bd123d38700800000000000000
+      internalID: 541508522578429229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a33ea61531d428e0800000000000000
+      internalID: -1719019131804699740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57016c67d17e11470800000000000000
+      internalID: 8363720096736481397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a84d418fe778d00800000000000000
+      internalID: 974887448315464219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4917e5335135fc060800000000000000
+      internalID: 6975885698341433748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e63ac5e0d6984ea0800000000000000
+      internalID: -5888290688834324764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e383bb0e81b3640800000000000000
+      internalID: 5060665959773650495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_37
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb4424e9cfe57e30800000000000000
+      internalID: 4500767053021727731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c884b7a0b448a1480800000000000000
+      internalID: -8927677853475321716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6074c4431567b0170800000000000000
+      internalID: 8145734442171516678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a00e278d519fd40800000000000000
+      internalID: 5618546029505808996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a8ddded99f73390800000000000000
+      internalID: -7838522169719158139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd00e28706307ea50800000000000000
+      internalID: 6550207895901700317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dab67193e169de60800000000000000
+      internalID: 7987523044144233177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 531
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887759210f120fb10800000000000000
+      internalID: 2013146348422264712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6497097e422907590800000000000000
+      internalID: -7678476677465212602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8f7abd82aad27f0800000000000000
+      internalID: -635664879928739611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8d126f3b530ad10800000000000000
+      internalID: 2134765270418446506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f6739eea7a8a0d0800000000000000
+      internalID: -3411292348054278385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4d5ac363a54a9c0800000000000000
+      internalID: -3916906586913254224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e0be34c8ab6d00800000000000000
+      internalID: 967052105819939948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af1f75ff646299a0800000000000000
+      internalID: -6227804902677078107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed09b93c67d98070800000000000000
+      internalID: 8109249463882157540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba1ad757627e1be0800000000000000
+      internalID: -1504639437314057539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635a5cb27801fbd00800000000000000
+      internalID: 990528615785801014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875637aecb015bd60800000000000000
+      internalID: 7905243124492100984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6844c2936957119e0800000000000000
+      internalID: -1652410300203514746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a3319ebd6ed34d0800000000000000
+      internalID: -3153110331906901355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9e063d52f70f990800000000000000
+      internalID: -7354238391059158563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_59
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa99f948168630c0800000000000000
+      internalID: -4596338930806580491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e89eb9420f44fdb0800000000000000
+      internalID: -4759092034978015008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b879a80d3d00b10800000000000000
+      internalID: 1945787931655899961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_62
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a1f9da17f574c50800000000000000
+      internalID: 6649388316684655126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_63
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810115f225011b30800000000000000
+      internalID: 4256188770540388736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_64
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed5049376d9bd140800000000000000
+      internalID: 4745559699032661486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_65
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f285722ce4e4188f0800000000000000
+      internalID: -540064380135974865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_66
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0de35ee576e01390800000000000000
+      internalID: -7849520756322734835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379fc50bd4f45d8d0800000000000000
+      internalID: -2822262396387788429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cfc89a4739f19a0800000000000000
+      internalID: -6260122827751621531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00a598bdaafe4130800000000000000
+      internalID: 3553052780074999821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_70
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde8e511acf3f2c40800000000000000
+      internalID: 5489676607895277275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_71
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80acc0ad03f3922e0800000000000000
+      internalID: -2150117868043449848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c15b3cfd313b870800000000000000
+      internalID: 8697317157164620812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_73
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8158d5c8752ba640800000000000000
+      internalID: 5092205004318069135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_74
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b546e5c99a315d850800000000000000
+      internalID: 6401044064570860635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052b09f3e6b83e400800000000000000
+      internalID: 352278501494141520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e263651cab1dba0800000000000000
+      internalID: -6065861883553501555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa2d3b984496c4b0800000000000000
+      internalID: -5420482061930779985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66436140906557aa0800000000000000
+      internalID: -6163925918263397274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47589d60e97ab000800000000000000
+      internalID: 52488350486517580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409b0c9e0754283a0800000000000000
+      internalID: -6664688147294537468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_81
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0524b07f3a22ea960800000000000000
+      internalID: 7615062107549811280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_82
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecb8d9536d2e2400800000000000000
+      internalID: 301228129812790498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0670a0a8836f450800000000000000
+      internalID: 6122142908981665957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d838bdce1caa2ecb0800000000000000
+      internalID: -4836115299963272307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cb203a5112486f0800000000000000
+      internalID: -683384866640577446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4b37e408a02b1c0800000000000000
+      internalID: -4489514332346665788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_87
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d101ae6848c8df0800000000000000
+      internalID: -176620570386883312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_88
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82832b3de5135f070800000000000000
+      internalID: 8139466184890398760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_89
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d4cd37517b20480800000000000000
+      internalID: -8934377407983628918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_90
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abde97f28d90824d0800000000000000
+      internalID: -3159264314486297158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aae70f8b00a17430800000000000000
+      internalID: 3778977533845301928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_92
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d0f04f63c1c8df0800000000000000
+      internalID: -176735263025853041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_93
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff01c76aceb808770800000000000000
+      internalID: 8611036336054079743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_94
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b5604e6df209620800000000000000
+      internalID: 2778773570082724623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_95
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a273832783056f8d0800000000000000
+      internalID: -2812972713881618646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_96
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93d765957b4772a0800000000000000
+      internalID: -6739835348946791525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff331fba6e1c19450800000000000000
+      internalID: 6093864967280342015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5205a97453c6db20800000000000000
+      internalID: 3158926956232507996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3734ffe3697deb950800000000000000
+      internalID: 6466843155252593523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eeba62bb0d30d90800000000000000
+      internalID: -7132627882598469992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_101
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70e6ce5195205cb0800000000000000
+      internalID: -4877357090151669635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61936aa3b703f3740800000000000000
+      internalID: 5133875406048737558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c7d9863378164b0800000000000000
+      internalID: -5448925419273356228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_104
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5d0cef9860ed3c0800000000000000
+      internalID: -4333018601729501737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_105
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4a574f1b8838020800000000000000
+      internalID: 2342866529054729398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ae9335585772cb0800000000000000
+      internalID: -4888809654999979504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_107
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79296425d76ab1760800000000000000
+      internalID: 7429715067459244695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f7425bcd136ea60800000000000000
+      internalID: 7702899036665446180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_109
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc3b18a800f905d0800000000000000
+      internalID: -3095679348869743403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_110
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bf034994e93a5c0800000000000000
+      internalID: -4205343588177872116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_111
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717b564d8057ac060800000000000000
+      internalID: 6974515653720258327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_112
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a6ebf1f965aa3d0800000000000000
+      internalID: -3194645744233584054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_113
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee3fb820854fab30800000000000000
+      internalID: 4300732585903865575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_114
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84219b0be380ffb20800000000000000
+      internalID: 3170261728038031944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4431bca1b3d37bc00800000000000000
+      internalID: 916268373255066436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6d03864ab33e660800000000000000
+      internalID: 7413834988890674943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336136372e2b4cde0800000000000000
+      internalID: -1313728505617115597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_118
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529e2dab079c77f30800000000000000
+      internalID: 4573345432625932581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2840dcb0583c5b60800000000000000
+      internalID: 7736120179331975215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf617858e4bd90e0800000000000000
+      internalID: -2261452527860879443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_121
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e8d588b2c7b80f0800000000000000
+      internalID: -1113659956430795154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_122
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73e64aa7714a4f80800000000000000
+      internalID: -8121606995795582083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5082ec84e63e1710800000000000000
+      internalID: 1665829267417759835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_124
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef36a24dbe822f60800000000000000
+      internalID: 8008120030936317935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_125
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9fb4477de4d8940800000000000000
+      internalID: 5299979023761013199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_126
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b559da04ac1a4f0800000000000000
+      internalID: -819151278065755265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_127
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda38c2d34451c800800000000000000
+      internalID: 630878073084459743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_128
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 435
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c19f77864e195e00800000000000000
+      internalID: 1033890877728068037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 435
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db6c9b6c78432550800000000000000
+      internalID: 6134826816627305432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_130
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 435
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3515a61b3ff42c800800000000000000
+      internalID: 631154805857472851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_131
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 435
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a5016b4a2f558a0800000000000000
+      internalID: -6316876113074169287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_132
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 435
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e39e1c9d1b88d7d0800000000000000
+      internalID: -2893409801295981598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_133
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 435
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce25b9f384fd3a340800000000000000
+      internalID: 4873984723142791916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7dd8d9b9897b110800000000000000
+      internalID: 1276656813513496505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a375fbfa885992430800000000000000
+      internalID: 3758699778314032954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_136
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8059a46f3eae2e960800000000000000
+      internalID: 7629918983529600264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9209ffedc60a170800000000000000
+      internalID: 8187663827585739232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_138
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d6aec5a4d8d950800000000000000
+      internalID: 6474158272946819557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13f6708db6a10960800000000000000
+      internalID: 7566512181793452826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_140
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdad20ca1fee39d80800000000000000
+      internalID: -8244983771044848933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_141
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0bbfd4591c104c0800000000000000
+      internalID: -4322961320296337243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c838d1cc2c6a5c10800000000000000
+      internalID: 2043064320452475080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_143
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ea1b1fa185d7240800000000000000
+      internalID: 4791082451339423321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_144
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca86a6cc430883b0800000000000000
+      internalID: -5510150515802600753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_145
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2486174e7e72e540800000000000000
+      internalID: 5035726414177272877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_146
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f74e56af71d34e40800000000000000
+      internalID: 5639581504580241397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_147
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41df3900274f29f10800000000000000
+      internalID: 2275149532248669460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_148
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1b8cd2cb8030d40800000000000000
+      internalID: 5549288770165584368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb3f467c13668de0800000000000000
+      internalID: -1331267665946264579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764c07a51b2d6cf70800000000000000
+      internalID: 9207278147373941863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a822ccad354226a0800000000000000
+      internalID: -6475537183011624795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_152
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8200898820f6c1380800000000000000
+      internalID: -8999195898720813016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_153
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79c970c2c43b3860800000000000000
+      internalID: 7510654814627940730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bc09d82a875e400800000000000000
+      internalID: 352820785373563769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15778e829b353ea70800000000000000
+      internalID: 8855013347060905809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_156
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acc08b1c5c070a80800000000000000
+      internalID: -8500812181900571479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b60479a919b2ff0800000000000000
+      internalID: -59794076890797288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_158
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ff39825b8aaaaa0800000000000000
+      internalID: -6148916845197656177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_159
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2675dd73b4ce3080800000000000000
+      internalID: -9205704313109383637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_160
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7c59bdd2f0d9ae0800000000000000
+      internalID: -1541058807858870352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_161
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b6ce3715536f380800000000000000
+      internalID: -8937897786516673668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0af6faf7fb9e890800000000000000
+      internalID: -7428195555245842264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_163
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50187b6d1c06f67d0800000000000000
+      internalID: -2923011247492857595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_164
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bc70c3e3cbf2210800000000000000
+      internalID: 1310472992069241641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_165
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c17af080a0c33e10800000000000000
+      internalID: 2176294840541278664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cd6a9d1fee642f0800000000000000
+      internalID: -988840345655124906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_167
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56de62a842a30eb0800000000000000
+      internalID: -4754778348726593956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_168
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eecc4a438049b00800000000000000
+      internalID: 834300853166599777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_169
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8912b72f0b43aa6e0800000000000000
+      internalID: -1825588764358270568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14f11808ea0cf240800000000000000
+      internalID: 4826744892318413855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f652f78674c1d9490800000000000000
+      internalID: -7737997491731225233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_172
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4badde0d1d18cf5c0800000000000000
+      internalID: -4180323615953265996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_173
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e289f77d43305540800000000000000
+      internalID: 4994548394572219109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_174
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57b54959f7d60ee0800000000000000
+      internalID: -1295110376877869221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_175
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabd71d5d7a41a4f0800000000000000
+      internalID: -819291754911507538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_176
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4746b43b2e70000800000000000000
+      internalID: 2219584528872693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1427cdc44d544d8a0800000000000000
+      internalID: -6281318802150100415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2238f890555bd5d40800000000000000
+      internalID: 5574811290591789858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf15031738e202d0800000000000000
+      internalID: -3313831052551315537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_180
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a603504192a6e9de0800000000000000
+      internalID: -1324504515738259350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62af944185546e870800000000000000
+      internalID: 8711726773794634278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_182
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d1c83939ede0d40800000000000000
+      internalID: 5552620116011392344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_183
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53db33c53470731f0800000000000000
+      internalID: -1065374800958735051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_184
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95dad8300e7eea20800000000000000
+      internalID: 3093548533469074843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_185
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431c47fd9a9afe130800000000000000
+      internalID: 3598281174355853620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_186
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cc72a650c409440800000000000000
+      internalID: 4940532377364974709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_187
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24786f31edfc7fa80800000000000000
+      internalID: -8433043224503351486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_188
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3fbd6428478f750800000000000000
+      internalID: 6338944578407363543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_189
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188a9e604f0e73120800000000000000
+      internalID: 2393629065663326337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_190
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f02a5e956a8326c0800000000000000
+      internalID: -4169336660961910539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_191
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d6a271d40a23e60800000000000000
+      internalID: 7940585345969188097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_192
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec12a4d5d714290e0800000000000000
+      internalID: -2264675655922081330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb9226e12c75fd60800000000000000
+      internalID: 7923375604465048524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_194
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08d83e9fe66f5d20800000000000000
+      internalID: 3269445033832011787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de96e53085f04000800000000000000
+      internalID: 18284329518407383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_196
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5c4c9b6f334dbe0800000000000000
+      internalID: -1453479644962175541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_197
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba914ba194f71970800000000000000
+      internalID: 8725711709534263996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 291
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2efdd80f9800b70800000000000000
+      internalID: 8863235732930552531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_199
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 291
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa07d77aa22078a0800000000000000
+      internalID: -6309504962395698439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_200
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 291
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5afeae4a7246730800000000000000
+      internalID: 3991358759026795993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furnitureTilemap_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd07864edeb0aec0800000000000000
+      internalID: -3557633843747418690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595be982f3552ac44a66344b58e4f2e6, type: 3}
+  m_Name: waterfallTop
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -332504584301543088, guid: 6dcf7c07d970dd641a65d04b5ab6218e, type: 3}
+  - {fileID: 3807077745241104606, guid: 6dcf7c07d970dd641a65d04b5ab6218e, type: 3}
+  - {fileID: 8099715261364588044, guid: 6dcf7c07d970dd641a65d04b5ab6218e, type: 3}
+  m_MinSpeed: 6
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0
